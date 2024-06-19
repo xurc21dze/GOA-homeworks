@@ -1,0 +1,8 @@
+#creating statements
+
+print(45 > 12)
+print(123 > 400)
+print(28 > 122)
+print(234 > 50)
+print(50 > 12)
+print
