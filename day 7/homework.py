@@ -17,3 +17,19 @@ location = input("where do you live: ")
 
 location1 = input("i live in tbilisi")
 
+hobby = input("what is your hobby: ")
+
+hobby1 = ("my hobby is playing chess")
+
+
+
+
+
+
+
+
+
+
+
+
+

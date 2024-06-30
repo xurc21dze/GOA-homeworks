@@ -16,3 +16,5 @@ print(False or False or False)
 print(False or False)
 
 print(True or False or False)
+
+print(False or False)

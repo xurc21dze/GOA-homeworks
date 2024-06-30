@@ -1,7 +1,7 @@
 from turtle import *
 
 
-#first box
+#the entrance
 
 speed(25)
 width(0.5)
@@ -18,6 +18,8 @@ left(90)
 forward(100)
 left(90)
 
+#making our castle bigger
+
 right(180)
 forward(200)
 
@@ -33,7 +35,7 @@ forward(200)
 right(90)
 forward(200)
 
-#making the castle bigger
+#adding a roof
 
 
 penup()
@@ -46,7 +48,7 @@ forward(150)
 right(90)
 forward(150)
 
-penup(
+penup()
 goto(90, 200)
 pendown()
 
@@ -61,6 +63,8 @@ forward(150)
 penup()
 goto(10, 200)
 pendown()
+
+#adding the details
 
 right(-225)
 
